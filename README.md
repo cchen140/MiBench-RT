@@ -1,4 +1,8 @@
-MiBench
+```
+This repository is created based on https://github.com/embecosm/mibench.git
+```
+
+MiBench-RT
 =======
 
 The original MiBench code as downloaded from
